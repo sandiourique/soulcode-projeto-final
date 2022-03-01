@@ -1,0 +1,14 @@
+Tabela de qualidade por operadora
+https://informacoes.anatel.gov.br/paineis/qualidade
+
+Tabela de reclamação
+https://informacoes.anatel.gov.br/paineis/consumidor
+
+Tabela de infraestrutura
+https://informacoes.anatel.gov.br/paineis/infraestrutura
+
+Tabela com população
+https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2021/
+
+Dados do PIB/municípios brasileiros.
+https://basedosdados.org/dataset/br-ibge-pib
